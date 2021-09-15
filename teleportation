@@ -1,0 +1,77 @@
+from nasa_libs import solarSystemBodyLocations, eventHorizon
+
+def volume():
+  ##adjust pi with qubit logic:found in notebook
+  ***
+
+  ***
+##Definitions begin to be defined around a person's agency.
+
+pos_Moon = []
+pos_Sun = []
+pos_Earth = []
+base_Name = []
+qEngineer_name = []
+qEngineer_ID = []
+
+place_of_interest = [uri:solarSystemCatalog]
+
+voxel_IDs = []
+voxel_ID = []
+voxel_Pos = []
+voxel_initialLoc = []
+transportFormulas = [***] ##Different problems in transport require different levels of string theory applications. Will attach explanations from notebooks & interpretations at requests.
+voxel_finalLoc = []
+
+def pos():
+  positon_x = nameQubit("pos_x")
+  position_y = nameQubit("pos_y")
+  position_z = nameQubit("pos_z")
+
+  
+  ##Coordinates where meteors get lost in gravity are important for light and object shield development.
+
+  pos = [measure([pos_x], [pos_y], [pos_z])]
+  EarthAtmosphereBoundary = [pos[]]
+  posAtmosphere = EarthAtmosphereBoundary[0, 1, 2]
+  meteorPos = [] ##energy impact signature related to structure of meteorites being catalogued; {position & location variable recorded}, {mass and energy of meteorites gets cross referenced with available lists}
+  posMeteor = meteorPos[0, 1, 2]
+  MilkyWayGalaxyBoundary = pos([ ]) 
+
+def volumeFunction():
+  place_of_interest = []
+  if eventHorizon(place_of_interest[]) == place_of_interest[meteorPos[]]:
+     = ['eventHorizonLocation']
+    delta_x = []
+    delta_y = []
+    delta_z = []
+
+    b = [formulas for edge cases of qubes]
+    a = [formulas for edge cases of qubes]
+
+  volume1 = pi * [integral of y^2(b - a) dx] 
+  volume2 = pi * [integral of f(x)^2 dx]
+
+  volume_accuracy =  volume1/volume2 
+
+  for r = f(x) = y:
+    for r == eventHorizon(True):
+      for f(x) == qtyrut:
+        if eventHorizon == 'QCLK!':
+          print("Correct!")
+        if eventHorizon != 'QCLK!':
+          print("ForceField!")
+
+def transitFormulas():
+  volumeFunction()
+
+##Hopefully a C++ library to not put GPUs to waste. Already made. No need for more at the moment.
+
+def nasa_libs(): 
+  for i in qEngineer_name[i]:
+    if qEngineer_name[i] in Approved[] == True:
+  for voxelIDs in [outsideAstros]:
+    if voxelID == ['name'] && voxelPos == pos[[], [], []]:
+      home = pos[0,1,2]
+      print(pos[0,1,2])
+      print("Papa's Home!")
